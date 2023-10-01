@@ -16,6 +16,7 @@ name is final and wouldn't be changed in any shape or form
 2. npm i
 3. copy my firebase Service Account .json in /server root
 4. node index.js
+5. npm run test for testing
 
 ## Notes
 
@@ -29,3 +30,4 @@ judging stuff presented in an entertaining manner.
   since it would require more time to do anything complicated BE-wise.
 - Added some comments to what I think should be and what is.
 - Figured that I could've just accessed Firebase directly in FE but did it in BE for an HTTP Request interaction.
+- Ran out of time to learn testing for FE
