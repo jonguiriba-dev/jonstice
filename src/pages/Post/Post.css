@@ -1,0 +1,20 @@
+.post-form-container{
+    max-width: 640px;
+    margin: 0 auto;
+    margin-top: 8rem;
+    padding: 0.8rem 0.4rem;
+}
+.post-form-container ion-input{
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+.post-form-container ion-card{
+    border: 1px solid #444;
+}
+
+.post-page ion-textarea{
+    min-height: 140px !important;
+    color: #fff;
+    font-size: 0.8rem;
+}

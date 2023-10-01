@@ -2,9 +2,29 @@
 http://ionicframework.com/docs/theming/ */
 
 /** Ionic CSS Variables **/
+
+.hidden{
+  display: none;
+}
+
+.link{
+  color: var(--text);
+  text-decoration: none;
+}
+
+.error-text{
+  width: 100%;
+  text-align: center;
+  color: #c9281d;
+  font-size: 0.8rem;
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
 :root {
+  --text: #eee;
   /** primary **/
-  --ion-color-primary: #3880ff;
+  --ion-color-primary: #a79639;
   --ion-color-primary-rgb: 56, 128, 255;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
@@ -83,7 +103,7 @@ http://ionicframework.com/docs/theming/ */
    */
 
   body {
-    --ion-color-primary: #428cff;
+    --ion-color-primary: #a79639;
     --ion-color-primary-rgb: 66,140,255;
     --ion-color-primary-contrast: #ffffff;
     --ion-color-primary-contrast-rgb: 255,255,255;

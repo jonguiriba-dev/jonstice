@@ -1,0 +1,41 @@
+.login-page {
+    --border-style: none;
+    --border-color: transparent;
+    --padding-top: 1rem;
+    --padding-bottom: 1rem;
+    --padding-start: 1rem;
+    --padding-end: 1rem;
+
+}
+
+.login-page ion-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading-text {
+    margin-top: 0.2rem;
+    color: #d3a6c7;
+}
+
+.form{
+    max-width: 640px;
+}
+
+.form-row>ion-col>ion-input, .form-row>ion-col>ion-button{
+    margin-top: 0.8rem;
+}
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75%;
+}
+
+.error-text{
+    color: #c9281d;
+    text-align: center;
+    width: 100%;
+}

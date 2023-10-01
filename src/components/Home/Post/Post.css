@@ -1,0 +1,4 @@
+.post:hover {
+    border: 1px solid #ccc;
+    margin-inline: 9px;
+}

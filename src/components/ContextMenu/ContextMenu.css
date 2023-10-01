@@ -1,0 +1,24 @@
+.context-menu {
+    z-index: 99;
+    position: fixed;
+    right: 0;
+    top: 48px;
+    max-width: 200px;
+}
+
+.context-menu ion-card-content{
+    padding: 0.5rem;
+}
+
+.context-menu ion-item{
+    width: 120px;
+}
+.context-menu ion-item h4{
+    text-align: center;
+    width: 100%;
+    cursor: pointer;
+}
+
+.context-menu ion-item:hover {
+    --background: #252525;
+}

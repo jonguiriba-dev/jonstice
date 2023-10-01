@@ -1,0 +1,36 @@
+.user-toolbar {
+    display: flex;
+    max-width: 220px;
+}
+
+.user-toolbar>div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 200px;
+}
+
+.user-toolbar>div h6 {
+    text-align: end;
+    width: 100%;
+    padding-right: 1rem;
+}
+
+.user-toolbar>div ion-button {
+    --border-radius: 100px;
+}
+
+.user-icon {
+    font-size: 34px;
+    min-width: 32px;
+    padding-right: 0.5rem;
+}
+
+.user-icon.active {
+    cursor: pointer;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
