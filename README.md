@@ -1,14 +1,14 @@
 # Jonstice
 
-#Installation and Running
+# Installation and Running
 
-##Client
+## Client
 
 1. go to root folder
 2. npm i
 3. ionic serve
 
-##Server
+## Server
 
 1. go to /server
 2. npm i
@@ -26,4 +26,4 @@ judging stuff presented in an entertaining manner.
 - Tried my best to showcase what I know. Although I have a 30(FE)/70(BE) split, I spent more time on FE since I'm new to React and barely any BE
   since it would require more time to do anything complicated BE-wise.
 - Added some comments to what I think should be and what is.
-- Figured that I could've just accessed Firebase directly in FE but did BE for an HTTP Request interaction.
+- Figured that I could've just accessed Firebase directly in FE but did it in BE for an HTTP Request interaction.
