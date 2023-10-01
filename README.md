@@ -1,5 +1,7 @@
 # Jonstice
 
+name is final and wouldn't be changed in any shape or form
+
 # Installation and Running
 
 ## Client
@@ -12,7 +14,7 @@
 
 1. go to /server
 2. npm i
-3. copy my firebase Service Account .json tin /server root
+3. copy my firebase Service Account .json in /server root
 4. node index.js
 
 ## Notes
